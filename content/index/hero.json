@@ -1,0 +1,32 @@
+{
+	"intro": {
+		"start": "const Project_Manager = ( manager, automate ) =>",
+		"end": "Hi need a manager?",
+		"speed": 60,
+		"deletionSpeed": 80,
+		"wrapper": "h2",
+		"startDelay": 1000,
+		"deleteDelay": 3000,
+		"restartDelay": 12000
+	},
+
+	"header": {
+		"name": "Scrummer AI.",
+		"usp": "I am your AI project manager :)"
+	},
+
+	"paragraph": "I can automate meetings, automate task assigning to team members,help you to track progress!",
+
+	"buttons": {
+		"primary": {
+			"title": "Get Me",
+			"url": "",
+			"leaveSite": false
+		},
+		"secondary": {
+			"title": "Subscribe our newsletter",
+			"url": "",
+			"leaveSite": "true"
+		}
+	}
+}

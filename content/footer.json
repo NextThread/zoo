@@ -1,0 +1,23 @@
+{
+	"acknowledgments": [
+		{ 
+			"person": "Yuri Zayed - Senior Software Engineer",
+			"link": "",
+			"note": "Thank you for all the quality features."
+		}
+	],
+
+	"careers": [
+		{ 
+			"person": "Career",
+			"link": "https://www.linkedin.com/company/testryt/jobs/?viewAsMember=true"
+		}
+	],
+
+	"social": [
+		{
+			"url": "https://www.linkedin.com/company/testryt/",
+			"icon": "linkedin"
+		}
+	]
+}

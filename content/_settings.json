@@ -1,0 +1,15 @@
+{
+	"name": "Scrummer AI",
+	"logo": "",
+	
+	"username": {
+		"github": "atlamors",
+		"medium": "@--andrewnelson"
+	},
+
+	"portfolio": { 
+		"forkthis": "Wanna join us?",
+		"repo_html": "https://www.linkedin.com/company/testryt/jobs/?viewAsMember=true",
+		"repo_api": "https://www.linkedin.com/company/testryt/jobs/?viewAsMember=true"
+	}
+}
